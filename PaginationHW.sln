@@ -5,15 +5,15 @@ VisualStudioVersion = 17.13.35825.156 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataSorting", "DataSorting", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soccer", "..\..\..\Desktop\1. Data sorting\Soccer\Soccer\Soccer.csproj", "{5C04EC9F-F131-49B4-CBD5-2FE42B7F02A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soccer1", "..\..\..\Desktop\1. Data sorting\Soccer\Soccer\Soccer1.csproj", "{5C04EC9F-F131-49B4-CBD5-2FE42B7F02A8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pagination", "Pagination", "{2A7562E0-74F6-4DCF-918B-4E72422D8DC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soccer", "..\..\..\Desktop\2. Pagination\Soccer\Soccer\Soccer.csproj", "{FED9696B-B09B-DE18-A2C2-6C1360ED8231}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soccer3", "..\..\..\Desktop\2. Pagination\Soccer\Soccer\Soccer3.csproj", "{FED9696B-B09B-DE18-A2C2-6C1360ED8231}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Filtration", "Filtration", "{F5AF0195-AE45-4BB4-A2A5-EB4B1BD7D582}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soccer", "..\..\..\Desktop\3. Filtration\Soccer\Soccer\Soccer.csproj", "{32B62D01-A5D1-8689-A7DA-28CF8ADD674E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soccer2", "..\..\..\Desktop\3. Filtration\Soccer\Soccer\Soccer2.csproj", "{32B62D01-A5D1-8689-A7DA-28CF8ADD674E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
