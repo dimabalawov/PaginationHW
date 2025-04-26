@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soccer3", "..\..\..\Desktop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soccer2", "..\..\..\Desktop\3. Filtration\Soccer\Soccer\Soccer2.csproj", "{32B62D01-A5D1-8689-A7DA-28CF8ADD674E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution", "Solution", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,6 +32,11 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5C04EC9F-F131-49B4-CBD5-2FE42B7F02A8} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{FED9696B-B09B-DE18-A2C2-6C1360ED8231} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{32B62D01-A5D1-8689-A7DA-28CF8ADD674E} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8740D169-CC55-4E15-895C-12270852ABE6}
